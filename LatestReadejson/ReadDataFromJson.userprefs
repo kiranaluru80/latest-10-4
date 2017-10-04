@@ -1,0 +1,23 @@
+﻿<Properties StartupConfiguration="{18E96A13-D497-4684-8A0B-DB204F7A65A6}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ReadDataFromJson/ReadDataFromJsonPage.xaml">
+    <Files>
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml.cs" Line="17" Column="13" />
+      <File FileName="ReadDataFromJson/ViewModelBase.cs" Line="7" Column="53" />
+      <File FileName="ReadDataFromJson/ReadDataViewModel.cs" Line="140" Column="4" />
+      <File FileName="ReadDataFromJson/App.xaml.cs" Line="11" Column="39" />
+      <File FileName="ReadDataFromJson/ReadDataFromJsonPage.xaml" Line="28" Column="24" />
+      <File FileName="ReadDataFromJson/ResponceModel.cs" Line="25" Column="14" />
+      <File FileName="../PopupviewSample/PopupviewSample/PopupviewSamplePage.xaml" Line="29" Column="3" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/LatestReadejson/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="43" column="1" />
+      <Breakpoint file="/Users/ravikiranreddy/Desktop/projects/LatestReadejson/ReadDataFromJson/ReadDataViewModel.cs" relfile="ReadDataFromJson/ReadDataViewModel.cs" line="118" column="1" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.ReadDataFromJson.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.D93C4D9C-6BC3-4614-8F47-6511184A1640" />
+  <MultiItemStartupConfigurations />
+</Properties>
